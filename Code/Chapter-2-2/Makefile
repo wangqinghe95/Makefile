@@ -1,5 +1,6 @@
-edit : common.o main.o utils.o
-	cc -o edit main.o common.o utils.o
+objects = common.o main.o utils.o
+edit : $(objects)
+	cc -o edit $(objects)
 
 main.o : main.c
 
