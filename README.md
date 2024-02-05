@@ -39,6 +39,8 @@ Learning Makefile/Cmake
 7. [3-6-Multiple Targets](./Chapter-3/3-6-Multiple%20Target.md)
 8. [3-7-Static Mode](./Chapter-3/3-7-Static%20Mode.md)
 9. [3-8-Automatically Generate Dependencies](./Chapter-3/3-8-Generate%20Dependencies%20Automatically.md)
+## chapter 4
+1. [4-0-Writing Command](./Chapter-4/4-0-Writing%20Command.md)
 
 ## Reference
 1. Books
