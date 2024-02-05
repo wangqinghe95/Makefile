@@ -15,7 +15,7 @@
 0 directories, 6 files
 ```
 
-[源文件链接](../Code/Chapter-2-2/main.cpp)
+[源文件链接](/Code/Chapter-2-2/main.c)
 
 ## Makefile
 

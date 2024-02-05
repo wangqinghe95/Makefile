@@ -41,6 +41,8 @@ Learning Makefile/Cmake
 9. [3-8-Automatically Generate Dependencies](./Chapter-3/3-8-Generate%20Dependencies%20Automatically.md)
 ## chapter 4
 1. [4-0-Writing Command](./Chapter-4/4-0-Writing%20Command.md)
+2. [4-1-Display Command](./Chapter-4/4-1-Display%20Command.md)
+
 
 ## Reference
 1. Books
