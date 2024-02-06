@@ -45,6 +45,7 @@ Learning Makefile/Cmake
 3. [4-2-Execute Command](./Chapter-4/4-2-Execute%20Command.md)
 4. [4-3-Error Command](./Chapter-4/4-3-Error%20Command.md)
 5. [4-4-Recursive Command](./Chapter-4/4-4-Recursive%20Makefile.md)
+6. [4-5-Define Command Package](./Chapter-4/4-5-Define%20Command%20Package.md)
 
 
 ## Reference
