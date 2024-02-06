@@ -44,6 +44,7 @@ Learning Makefile/Cmake
 2. [4-1-Display Command](./Chapter-4/4-1-Display%20Command.md)
 3. [4-2-Execute Command](./Chapter-4/4-2-Execute%20Command.md)
 4. [4-3-Error Command](./Chapter-4/4-3-Error%20Command.md)
+5. [4-4-Recursive Command](./Chapter-4/4-4-Recursive%20Makefile.md)
 
 
 ## Reference
