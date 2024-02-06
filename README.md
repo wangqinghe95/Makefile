@@ -42,7 +42,8 @@ Learning Makefile/Cmake
 ## chapter 4
 1. [4-0-Writing Command](./Chapter-4/4-0-Writing%20Command.md)
 2. [4-1-Display Command](./Chapter-4/4-1-Display%20Command.md)
-3. [4-2-execute Command](./Chapter-4/4-2-Execute%20Command.md)
+3. [4-2-Execute Command](./Chapter-4/4-2-Execute%20Command.md)
+4. [4-3-Error Command](./Chapter-4/4-3-Error%20Command.md)
 
 
 ## Reference
