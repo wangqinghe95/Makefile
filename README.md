@@ -47,6 +47,8 @@ Learning Makefile/Cmake
 5. [4-4-Recursive Command](./Chapter-4/4-4-Recursive%20Makefile.md)
 6. [4-5-Define Command Package](./Chapter-4/4-5-Define%20Command%20Package.md)
 
+## chapter-5
+1. [5-0-Use Variations](./Chapter-5/5-0-Use%20Variation.md)
 
 ## Reference
 1. Books
