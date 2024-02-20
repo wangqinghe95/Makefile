@@ -50,6 +50,7 @@ Learning Makefile/Cmake
 ## chapter-5
 1. [5-0-Use Variations](./Chapter-5/5-0-Use%20Variation.md)
 2. [5-1-Basis of Variation](./Chapter-5/5-1-Basis%20of%20Variation.md)
+3. [5-2-Variations in Variation](./Chapter-5/5-2-Variations%20in%20Variation.md)
 
 ## Reference
 1. Books
