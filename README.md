@@ -57,6 +57,7 @@ Learning Makefile/Cmake
 7. [5-6-More lines for Variable](./Chapter-5/5-6-Variable%20with%20More%20lines.md)
 8. [5-7-Enviromental Variable](./Chapter-5/5-7-Environmental%20Variations.md)
 9. [5-8-Target Variable](./Chapter-5/5-9-Target%20Variable.md)
+10. [5-10-Pattern Variable](./Chapter-5/5-10-Pattern%20Variable.md)
 
 ## Reference
 1. Books
