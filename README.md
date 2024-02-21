@@ -54,6 +54,7 @@ Learning Makefile/Cmake
 4. [5-3-Advanced Usages of Variations](./Chapter-5/5-3-Advanced%20Usages%20of%20Variations.md)
 5. [5-4-Add Variation Value](./Chapter-5/5-4-Add%20Variations%20Value.md)
 6. [5-5-Override Command](./Chapter-5/5-5-Override.md)
+7. [5-6-More lines for Variable](./Chapter-5/5-6-Variable%20with%20More%20lines.md)
 
 ## Reference
 1. Books
