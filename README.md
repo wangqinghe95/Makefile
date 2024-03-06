@@ -59,6 +59,10 @@ Learning Makefile/Cmake
 9. [5-8-Target Variable](./Chapter-5/5-9-Target%20Variable.md)
 10. [5-10-Pattern Variable](./Chapter-5/5-10-Pattern%20Variable.md)
 
+## chapter-6
+1. [6-1-Example](./Chapter-6/6-1-Example.md)
+2. [6-2-Syntax](./Chapter-6/6-2-Syntax.md)
+
 ## Reference
 1. Books
    1. [Makefile.pdf](./Makefile.pdf)
