@@ -63,6 +63,9 @@ Learning Makefile/Cmake
 1. [6-1-Example](./Chapter-6/6-1-Example.md)
 2. [6-2-Syntax](./Chapter-6/6-2-Syntax.md)
 
+## chapter-7
+1. [7-1-Syntax of Function calling](./Chapter-7/7-1-Syntax%20of%20Function%20Calling.md)
+
 ## Reference
 1. Books
    1. [Makefile.pdf](./Makefile.pdf)
