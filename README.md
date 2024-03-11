@@ -65,6 +65,14 @@ Learning Makefile/Cmake
 
 ## chapter-7
 1. [7-1-Syntax of Function calling](./Chapter-7/7-1-Syntax%20of%20Function%20Calling.md)
+2. [7-2-Function for Handling string](./Chapter-7/7-2-Function%20for%20handling%20string.md)
+3. [7-3-Function for opearting File Name](./Chapter-7/7-3-Function%20for%20operating%20FileName.md)
+4. [7-4-Function of foreach](./Chapter-7/7-4-foreach.md)
+5. [7-5-Function of if](./Chapter-7/7-5-if.md)
+6. [7-6-Funcion of call](./Chapter-7/7-6-call.md)
+7. [7-7-Function of origin](./Chapter-7/7-7-origin.md)
+8. [7-8-Function of shell](./Chapter-7/7-8-shell.md)
+9. [7-9-Function of Controlling Make](./Chapter-7/7-9-Function%20for%20Controlling%20Make.md)
 
 ## Reference
 1. Books
