@@ -74,6 +74,9 @@ Learning Makefile/Cmake
 8. [7-8-Function of shell](./Chapter-7/7-8-shell.md)
 9. [7-9-Function of Controlling Make](./Chapter-7/7-9-Function%20for%20Controlling%20Make.md)
 
+## chapter-8
+1. [8-The run of Make](./Chapter-8/8-The%20run%20of%20Make.md)
+
 ## Reference
 1. Books
    1. [Makefile.pdf](./Makefile.pdf)
