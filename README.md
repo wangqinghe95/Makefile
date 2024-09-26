@@ -24,6 +24,7 @@ Learning Makefile/Cmake
 ### Practice for Makefile
 1.	Make 编译实战
    +	Make 单文件夹多文件编译
+   +  [Make 单文件夹多个源文件生成对应的多个可执行文件](./Practice/Makefile_1.mk)
    +	Make 多文件中所有源文件编译
    +	Make 多文件夹中部分文件参与编译
    +	Make 多文件夹多Makefile文件编译
